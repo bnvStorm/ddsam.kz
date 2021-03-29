@@ -96,6 +96,7 @@
          <ul class="tabs" id="catfixneed">
             <li class="tab"><a href="index.html#t1" class="clickmepls">Ролы</a></li>
             <li class="tab"><a href="index.html#t5" class="clickmepls">Стритфуд</a></li>
+            <li class="tab"><a href="index.html#t6" class="clickmepls">Пицца</a></li>
             <li class="tab"><a href="index.html#t3" class="clickmepls">Закуски</a></li>
             <li class="tab"><a href="index.html#t2" class="clickmepls">Салаты</a></li>
             
@@ -134,7 +135,12 @@
             <div class="row">
                <?php display_products('fastfood', $array); ?>
             </div>
-         </div>      
+         </div>     
+         <div id="t6">
+            <div class="row">
+               <?php display_products('pizza', $array); ?>
+            </div>
+         </div> 
  <!--      <div id="t6">
          <div class="row">
             // <?php //display_all($array); ?>
