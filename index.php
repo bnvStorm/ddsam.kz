@@ -1,7 +1,7 @@
 <?php require 'inc/header.php'; ?>
 <div class="slider-slick app-pages">
    <div class="slider-entry">
-      <img class="lazyload vdesc" src="img/02.jpg" alt="">
+      <img class="vdesc" src="img/02.jpg" alt="">
       <img class="lazyload vmob" data-src="img/slider1.jpg" alt="">
       <div class="overlay"></div>
       <div class="caption">
@@ -15,7 +15,7 @@
 
    <div class="slider-entry">
       <div class="overlay"></div>
-      <img class="lazyload vdesc" data-src="img/01.jpg" alt="">
+      <img class="vdesc" data-src="img/01.jpg" alt="">
       <img class="lazyload vmob" data-src="img/slider2.jpg" alt="">
       <div class="caption">
          <div class="container">
@@ -28,7 +28,7 @@
 </div>   
 <div class="slider-entry">
    <!--       <div class="overlay"></div> -->
-   <img style="object-fit: contain;" class="lazyload vdesc" data-src="img/kombo1.jpg" alt="">
+   <img style="object-fit: contain;" class="vdesc" data-src="img/kombo1.jpg" alt="">
    <img style="object-fit: contain;" class="lazyload vmob" data-src="img/mkombo1.jpg" alt="">
    <div class="caption">
       <div class="container">
@@ -39,7 +39,7 @@
 </div>
 </div>   <div class="slider-entry">
    <!--       <div class="overlay"></div> -->
-   <img style="object-fit: contain;" class="lazyload vdesc" data-src="img/kombo2.jpg" alt="">
+   <img style="object-fit: contain;" class="vdesc" data-src="img/kombo2.jpg" alt="">
    <img style="object-fit: contain;" class="lazyload vmob" data-src="img/mkombo2.jpg" alt="">
    <div class="caption">
       <div class="container">
@@ -51,7 +51,7 @@
 </div>   
 <div class="slider-entry">
    <div class="overlay"></div>
-   <img class="lazyload vdesc" data-src="img/03.jpg" alt="">
+   <img class="vdesc" data-src="img/03.jpg" alt="">
    <img class="lazyload vmob" data-src="img/slider3.jpg" alt="">
    <div class="caption">
       <div class="container">
@@ -63,7 +63,7 @@
 </div>   
 <div class="slider-entry">
    <div class="overlay"></div>
-   <img class="lazyload vdesc" data-src="img/04.jpg" alt="">
+   <img class="vdesc" data-src="img/04.jpg" alt="">
    <img class="lazyload vmob" data-src="img/slider2.jpg" alt="">
    <div class="caption">
       <div class="container">
